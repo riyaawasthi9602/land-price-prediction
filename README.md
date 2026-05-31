@@ -41,7 +41,6 @@ Data Collection → Data Cleaning → Dataset Merging → Feature Engineering �
 
 The model predicts land prices according to distance from NIMS University.
 
-## Author
 
 Riya Awasthi
 
