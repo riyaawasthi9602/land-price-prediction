@@ -1,0 +1,6 @@
+Location,Distance,Price,Area_Type,Price_Category
+NIMS Area,2,500000,Near NIMS,High Price
+Abu Road,10,200000,Outside NIMS,Low Price
+Mount Abu,20,150000,Outside NIMS,Low Price
+NIMS Area,1,700000,Near NIMS,High Price
+Outside NIMS,15,120000,Outside NIMS,Low Price
